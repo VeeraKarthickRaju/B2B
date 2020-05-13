@@ -1,9 +1,11 @@
 {
-	"posts": [{
-		"id": 1,
-		"title": "hello"
-	}],
-	"profile": {
-		"name": "typicode"
+	"OTP": {
+		"OTP": 345678
+	},
+	"SecQues": {
+		"SecQues": "Which is your first school"
+	},
+	"SecAns": {
+		"SecAns": "St. Antony school"
 	}
 }
