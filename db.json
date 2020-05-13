@@ -1,5 +1,5 @@
 {
-	"OTP" : 918238,
+	"OTP" : {"OTP" : 918238},
 	"SecQues" : "Which is your first school",
 	"SecAns" : "St.Antony School"
 }
