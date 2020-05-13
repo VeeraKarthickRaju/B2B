@@ -1,5 +1,1 @@
-{
-	"OTP" : {"OTP" : 918238},
-	"SecQues" : "Which is your first school",
-	"SecAns" : "St.Antony School"
-}
+{ "posts": [ { "id": 1, "title": "hello" } ], "profile": { "name": "typicode" } }
