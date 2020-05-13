@@ -1,28 +1,5 @@
 {
-	"totalExpQuotes": {
-		"total": 250
-	},
-	"openOppIDs": [{
-			"openOppID": "0060o00001CigMg"
-		},
-		{
-			"openOppID": "0060o00001CigMf"
-		},
-		{
-			"openOppID": "0060o00001CigMd"
-		}
-	],
-	"openQuoteIDs": [{
-			"openQuoteID": "0Q00o000002Npc0"
-		},
-		{
-			"openQuoteID": "0Q00o000002Npd0"
-		},
-		{
-			"openQuoteID": "0Q00o000002Npe0"
-		}
-	],
-	"update": {
-		"success": "Great, the start date has been updated for selected quote.Also the pricing will be updated for quote based on latest active list price"
-	}
+	"OTP" : 918238,
+	"SecQues" : "Which is your first school",
+	"SecAns" : "St.Antony School"
 }
